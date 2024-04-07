@@ -1,2 +1,2 @@
 # TicTacToe
-this is a demo repo for tic tac toe in java
+This is a demo repo for Tic Tac Toe game in Java.
